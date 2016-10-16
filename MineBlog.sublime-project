@@ -1,0 +1,18 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"MineBlog.sublime-project"
+			],
+			"folder_exclude_patterns":
+			[
+				"node_modules",
+				"themes/landscape",
+				"public"
+			],
+			"path": "."
+		}
+	]
+}
